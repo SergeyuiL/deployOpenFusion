@@ -1,0 +1,3 @@
+[submodule "OpenFusion"]
+	path = OpenFusion
+	url = git@github.com:SergeyuiL/OpenFusion.git
