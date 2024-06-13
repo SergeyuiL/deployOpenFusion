@@ -1,0 +1,4 @@
+data/depth/*
+data/rgb/*
+data/node_pose.txt
+data/camera_info.json
